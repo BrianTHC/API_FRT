@@ -1,0 +1,5 @@
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\bin\Release\API.DrugFRT.Framework.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\bin\Release\API.DrugFRT.Framework.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\obj\Release\API.DrugFRT.Framework.csprojResolveAssemblyReference.cache
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\obj\Release\API.DrugFRT.Framework.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\obj\Release\API.DrugFRT.Framework.pdb

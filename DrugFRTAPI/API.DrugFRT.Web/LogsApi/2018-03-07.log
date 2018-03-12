@@ -1,0 +1,212 @@
+2018-03-07 17:44:03.1118 ERROR URL: http://localhost:49912/api/DrugMobile/GetDuyetDatHangDetail/88; RequestBody: ; Exception: System.Data.SqlClient.SqlException (0x80131904): The current transaction cannot be committed and cannot support operations that write to the log file. Roll back the transaction.
+Conversion failed when converting the varchar value 'ksjhfjkd' to data type int.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__174_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__147`1.MoveNext() in D:\Dev\dapper-dot-net\Dapper NET45\SqlMapperAsync.cs:line 95
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<>c__DisplayClass1_0.<<GetDuyetDatHangDetail>b__0>d.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.RepositoryBase.<WithConnection>d__2`1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\RepositoryBase.cs:line 22
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<GetDuyetDatHangDetail>d__1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Business.Implement.ThuocMobileBUS.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Business\Implement\ThuocMobileBUS.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Web.Controllers.DrugMobileController.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Web\Controllers\DrugMobileController.cs:line 21
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+ClientConnectionId:37e271ab-f1be-435d-aa19-812fad75ea95
+Error Number:3930,State:1,Class:16
+2018-03-07 17:44:06.0049 ERROR URL: http://localhost:49912/api/DrugMobile/GetDuyetDatHangDetail/88; RequestBody: ; Exception: System.Data.SqlClient.SqlException (0x80131904): The current transaction cannot be committed and cannot support operations that write to the log file. Roll back the transaction.
+Conversion failed when converting the varchar value 'ksjhfjkd' to data type int.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__174_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__147`1.MoveNext() in D:\Dev\dapper-dot-net\Dapper NET45\SqlMapperAsync.cs:line 95
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<>c__DisplayClass1_0.<<GetDuyetDatHangDetail>b__0>d.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.RepositoryBase.<WithConnection>d__2`1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\RepositoryBase.cs:line 22
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<GetDuyetDatHangDetail>d__1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Business.Implement.ThuocMobileBUS.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Business\Implement\ThuocMobileBUS.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Web.Controllers.DrugMobileController.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Web\Controllers\DrugMobileController.cs:line 21
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+ClientConnectionId:37e271ab-f1be-435d-aa19-812fad75ea95
+Error Number:3930,State:1,Class:16
+2018-03-07 17:44:35.2452 ERROR URL: http://localhost:49912/api/DrugMobile/GetDuyetDatHangDetail/88; RequestBody: ; Exception: System.Data.SqlClient.SqlException (0x80131904): The current transaction cannot be committed and cannot support operations that write to the log file. Roll back the transaction.
+Conversion failed when converting the varchar value 'ksjhfjkd' to data type int.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__174_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__147`1.MoveNext() in D:\Dev\dapper-dot-net\Dapper NET45\SqlMapperAsync.cs:line 95
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<>c__DisplayClass1_0.<<GetDuyetDatHangDetail>b__0>d.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.RepositoryBase.<WithConnection>d__2`1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\RepositoryBase.cs:line 22
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<GetDuyetDatHangDetail>d__1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Business.Implement.ThuocMobileBUS.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Business\Implement\ThuocMobileBUS.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Web.Controllers.DrugMobileController.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Web\Controllers\DrugMobileController.cs:line 21
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+ClientConnectionId:37e271ab-f1be-435d-aa19-812fad75ea95
+Error Number:3930,State:1,Class:16
+2018-03-07 17:44:37.2930 ERROR URL: http://localhost:49912/api/DrugMobile/GetDuyetDatHangDetail/88; RequestBody: ; Exception: System.Data.SqlClient.SqlException (0x80131904): The current transaction cannot be committed and cannot support operations that write to the log file. Roll back the transaction.
+Conversion failed when converting the varchar value 'ksjhfjkd' to data type int.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__174_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Dapper.SqlMapper.<QueryAsync>d__147`1.MoveNext() in D:\Dev\dapper-dot-net\Dapper NET45\SqlMapperAsync.cs:line 95
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<>c__DisplayClass1_0.<<GetDuyetDatHangDetail>b__0>d.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.RepositoryBase.<WithConnection>d__2`1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\RepositoryBase.cs:line 22
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Repository.Repositories.ThuocMobileRepository.<GetDuyetDatHangDetail>d__1.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Repository\Repositories\ThuocMobileRepository.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Business.Implement.ThuocMobileBUS.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Business\Implement\ThuocMobileBUS.cs:line 19
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at API.DrugFRT.Web.Controllers.DrugMobileController.<GetDuyetDatHangDetail>d__2.MoveNext() in D:\APIPharma\DrugFRTAPI\API.DrugFRT.Web\Controllers\DrugMobileController.cs:line 21
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__3`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__0.MoveNext()
+ClientConnectionId:37e271ab-f1be-435d-aa19-812fad75ea95
+Error Number:3930,State:1,Class:16

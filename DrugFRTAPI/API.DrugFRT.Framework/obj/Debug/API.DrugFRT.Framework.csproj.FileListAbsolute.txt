@@ -1,0 +1,4 @@
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\bin\Debug\API.DrugFRT.Framework.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\bin\Debug\API.DrugFRT.Framework.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\obj\Debug\API.DrugFRT.Framework.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Framework\obj\Debug\API.DrugFRT.Framework.pdb

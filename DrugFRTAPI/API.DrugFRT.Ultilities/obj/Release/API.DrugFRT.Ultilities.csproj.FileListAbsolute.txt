@@ -1,0 +1,17 @@
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\API.DrugFRT.Ultilities.dll.config
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\API.DrugFRT.Ultilities.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\API.DrugFRT.Ultilities.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\API.DrugFRT.Configuration.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\API.DrugFRT.Model.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\Newtonsoft.Json.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\NLog.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\System.Net.Http.Extensions.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\System.Net.Http.Primitives.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\System.Web.Http.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\API.DrugFRT.Configuration.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\API.DrugFRT.Model.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\Newtonsoft.Json.xml
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Release\NLog.xml
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\obj\Release\API.DrugFRT.Ultilities.csprojResolveAssemblyReference.cache
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\obj\Release\API.DrugFRT.Ultilities.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\obj\Release\API.DrugFRT.Ultilities.pdb

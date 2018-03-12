@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\APIDeploy\APIDrugFRT</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>03/06/2018 15:15:07</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.Business.dll">
+      <publishTime>03/07/2018 16:31:10</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.Configuration.dll">
+      <publishTime>03/07/2018 16:01:13</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.DependencyResolver.dll">
+      <publishTime>03/07/2018 16:31:10</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.Framework.dll">
+      <publishTime>03/07/2018 16:01:13</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.Model.dll">
+      <publishTime>03/07/2018 16:31:09</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.Repository.dll">
+      <publishTime>03/07/2018 16:31:10</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.Ultilities.dll">
+      <publishTime>03/07/2018 16:31:10</publishTime>
+    </File>
+    <File Include="bin/API.DrugFRT.Web.dll">
+      <publishTime>03/07/2018 16:31:16</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>03/06/2018 15:15:07</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>05/06/2015 13:05:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/18/2018 09:44:54</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>03/21/2014 16:14:40</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.dll">
+      <publishTime>03/21/2014 17:08:58</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.WebApi.dll">
+      <publishTime>03/21/2014 17:17:42</publishTime>
+    </File>
+    <File Include="bin/NLog.config">
+      <publishTime>03/07/2018 14:57:54</publishTime>
+    </File>
+    <File Include="bin/NLog.dll">
+      <publishTime>02/27/2018 23:35:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/Swagger.Net.dll">
+      <publishTime>03/03/2018 04:35:48</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>10/05/2016 13:11:52</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/06/2018 15:14:25</publishTime>
+    </File>
+    <File Include="NLog.config">
+      <publishTime>03/07/2018 14:57:54</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/07/2018 15:26:15</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>03/06/2018 15:15:07</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>03/06/2018 15:15:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/07/2018 16:01:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

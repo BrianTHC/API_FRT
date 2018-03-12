@@ -1,0 +1,7 @@
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Configuration\bin\Release\API.DrugFRT.Configuration.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Configuration\bin\Release\API.DrugFRT.Configuration.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Configuration\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Configuration\bin\Release\WebActivatorEx.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Configuration\obj\Release\API.DrugFRT.Configuration.csprojResolveAssemblyReference.cache
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Configuration\obj\Release\API.DrugFRT.Configuration.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Configuration\obj\Release\API.DrugFRT.Configuration.pdb

@@ -1,0 +1,17 @@
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\API.DrugFRT.Ultilities.dll.config
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\API.DrugFRT.Ultilities.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\API.DrugFRT.Ultilities.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\API.DrugFRT.Configuration.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\API.DrugFRT.Model.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\Newtonsoft.Json.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\NLog.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\System.Net.Http.Extensions.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\System.Net.Http.Primitives.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\System.Web.Http.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\API.DrugFRT.Configuration.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\API.DrugFRT.Model.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\Newtonsoft.Json.xml
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\bin\Debug\NLog.xml
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\obj\Debug\API.DrugFRT.Ultilities.csprojResolveAssemblyReference.cache
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\obj\Debug\API.DrugFRT.Ultilities.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Ultilities\obj\Debug\API.DrugFRT.Ultilities.pdb

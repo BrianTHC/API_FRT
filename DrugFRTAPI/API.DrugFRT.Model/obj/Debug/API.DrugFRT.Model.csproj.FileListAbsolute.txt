@@ -1,0 +1,7 @@
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Model\bin\Debug\API.DrugFRT.Model.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Model\bin\Debug\API.DrugFRT.Model.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Model\bin\Debug\API.DrugFRT.Configuration.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Model\bin\Debug\API.DrugFRT.Configuration.pdb
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Model\obj\Debug\API.DrugFRT.Model.csprojResolveAssemblyReference.cache
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Model\obj\Debug\API.DrugFRT.Model.dll
+D:\APIPharma\DrugFRTAPI\API.DrugFRT.Model\obj\Debug\API.DrugFRT.Model.pdb
